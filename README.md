@@ -1,2 +1,2 @@
 # FuelFast-V1
-Primera versión de la pagina web de FuelFast
+EL IHC ABOUT THE TEAM esta en los archivos del proyecto de github 
